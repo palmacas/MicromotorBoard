@@ -4,5 +4,6 @@
 
 Board to solder on micro metal gearmotors to avoid terminals damage. Includes a small ceramic capacitor and a two pin JST PH 2.0 connector.
 
+---
 More information:  
 [Micromotor’s PCB](http://palmacas.com/micromotor-pcb/) [[Spanish]](http://palmacas.com/pcb-micromotor/)
